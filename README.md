@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrTowers
 - 👀 I’m interested in programming games/apps and in music production
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning C# and TypeScript
