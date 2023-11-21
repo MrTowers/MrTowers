@@ -3,7 +3,7 @@
 ## I'm
 - 22 y/o
 - Hobby Programmer
-- Soon a dad
+- A Dad of a beauty
 - Creative
 - Curious
 - Gamer
