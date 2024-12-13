@@ -9,4 +9,4 @@
 - Gamer
 
 ## Best language?
-V is the only one choice.. and rust but it's hard..
+Zig? C? ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
